@@ -20,3 +20,7 @@ I'm always looking to improve my site and showcase the best of my abilities. If 
 Contact
 Parbinder Singh - parbinder25@gmail.com
 
+Here is the link to my Website: https://maanman25.github.io/portfolio/
+![Screenshot 2024-02-08 at 6 28 39 PM](https://github.com/maanman25/portfolio/assets/69931950/d4ae19bc-4a9f-44c9-b534-c162441a7e9c)
+
+
